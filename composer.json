@@ -1,0 +1,20 @@
+{
+	"name" : "nih-fo/plugin-docs",
+	"description" : "CakePHP Plugin: Document Manager",
+	"type" : "cakephp-plugin",
+	"keywords" : ["cakephp", "plugin", "Document", "Manager"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brian French",
+			"role": "Developer"
+		},
+		{
+			"name": "Joshua Knust",
+			"role": "Manager"
+		} 
+	],
+	"require": {
+		"nih-fo/plugin-utilities": "1.*"
+	}
+}
