@@ -3,7 +3,7 @@
 	"description" : "CakePHP Plugin: Document Manager",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "Document", "Manager"],
-	"license": "proprietary",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
